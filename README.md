@@ -1,0 +1,9 @@
+homework4_3
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
